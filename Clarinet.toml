@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/stepnest-core.clar"
 depends_on = []
 
+[contracts.stepnest-social]
+path = "contracts/stepnest-social.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
